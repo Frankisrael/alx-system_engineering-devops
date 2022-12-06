@@ -1,1 +1,1 @@
- a script that prints hello user
+The path to success is to take massive, determined action
